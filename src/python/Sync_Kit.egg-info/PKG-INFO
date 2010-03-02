@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Sync-Kit
+Version: 0.2
+Summary: Synchronize client-side HTML5 stores with a server-side database
+Home-page: http://github.com/synckit/synckit
+Author: Edward Benson and Adam Marcus
+Author-email: synckit@csail.mit.edu
+License: BSD
+Description: UNKNOWN
+Keywords: HTML5 database client-side server-side
+Platform: UNKNOWN

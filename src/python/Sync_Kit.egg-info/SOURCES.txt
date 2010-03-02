@@ -1,0 +1,8 @@
+setup.py
+python/Sync_Kit.egg-info/PKG-INFO
+python/Sync_Kit.egg-info/SOURCES.txt
+python/Sync_Kit.egg-info/dependency_links.txt
+python/Sync_Kit.egg-info/requires.txt
+python/Sync_Kit.egg-info/top_level.txt
+python/synckit/__init__.py
+python/synckit/views.py
