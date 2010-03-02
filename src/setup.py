@@ -4,13 +4,13 @@ ez_setup.use_setuptools()
 from setuptools import setup, find_packages
 setup(
     name = "SyncKit",
-    version = "0.2",
+    version = "0.2.1",
     packages = find_packages('python'),
     package_dir = {'':'python'},
 
-    # Project uses reStructuredText, so ensure that the docutils get
-    # installed or upgraded on the target machine
-    install_requires = ['django>=1.1.1'],
+    # We don't know enough about their install to actually require a django
+    # download
+    # install_requires = ['django>=1.1.1'],
 
     # metadata for upload to PyPI
     author = "Edward Benson and Adam Marcus",
