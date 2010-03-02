@@ -1,0 +1,10 @@
+To release a new version of synckit, edit src/setup.py to bump the version up.
+Then run
+  cd src
+  python setup.py bdist_egg
+
+The egg file will be in src/dist/SyncKit*.egg
+
+To upload the new egg to pypi, go run
+  cd src
+  python setup.py register
