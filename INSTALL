@@ -1,0 +1,6 @@
+To install:
+1) cd src
+   sudo python setup.py install
+2) place src/js/sync.js in the appropriate location in your static files
+   directory on your website and check out the examples on our site for
+   more information.
